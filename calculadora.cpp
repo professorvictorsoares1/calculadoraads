@@ -66,6 +66,7 @@ int main()
         cin >> n;
         fator = fatorial(n);
         cout << "Fatorial eh: " << fator << endl;
+        
     }else
     {
         switch(option)
